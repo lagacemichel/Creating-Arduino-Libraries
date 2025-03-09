@@ -1,4 +1,5 @@
 /*
+  DHT22 Sensor library V1.0.0
   DHT22 Temperature / Humidity Sensor Class Header
 
   DHT22 temperature and relative humidity sensor handling class. This class
@@ -9,7 +10,7 @@
 
   MIT License
 
-  Copyright (c) 2024, Michel Lagace
+  Copyright (c) 2025, Michel Lagace
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
