@@ -1,5 +1,5 @@
 /*
-  DHT22 Temperature / Humidity Serial Decoder Sketch
+  DHT22 Sensor library V1.0.0 example Sketch
 
   Program that requests temperature and humidity from a DHT22 sensor
   and returns the results to the serial port. It is associated with
@@ -7,7 +7,7 @@
 
   MIT License
 
-  Copyright (c) 2024, Michel Lagace
+  Copyright (c) 2025, Michel Lagace
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
