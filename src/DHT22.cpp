@@ -1,4 +1,5 @@
 /*
+  DHT22 Sensor library V1.0.0
   DHT22 Temperature / Humidity Controller Class Body
 
   DHT22 temperature and relative humidity sensor handling class. This class
@@ -9,7 +10,7 @@
 
   MIT License
 
-  Copyright (c) 2024, Michel Lagace
+  Copyright (c) 2025, Michel Lagace
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -123,7 +124,7 @@ void DHT22::fetchData() {
       delay(ONE_SECOND);
     }
 
-    // Send request signal to reMad temperature and relative humidity from device.
+    // Send request signal to read temperature and relative humidity from device.
     pinMode(_pin, OUTPUT);
     digitalWrite(_pin, LOW);
     delay(TWO_MILLISECONDS);
