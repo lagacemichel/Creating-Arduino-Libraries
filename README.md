@@ -33,6 +33,5 @@ implementation file, ``DHT22.cpp``, which contains the sensor library code. The
 that demonstrates how to use the DHT22 sensor library. The ``/extras`` subdirectory
 includes a PDF file containing a previous Mike's Electroshack post discussing
 how to use of the DHT22 sensor to provide relative humidity and temperature
-readings.
-
-The blog post can be found at https://lagacemichel.com.
+readings. The "Sharing Your Code with Libraries" blog post can be found at
+https://lagacemichel.com/sharing-your-code-with-libraries/.
